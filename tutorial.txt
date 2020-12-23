@@ -1,0 +1,31 @@
+OBSERVAÇÕES IMPORTANTES
+
+- Não apague nenhuma tag, as tags são todas as palavras envolvidas por setar como <span> <html> <div>. Elas são muito importantes para funcionar o site
+- Ao alterar as informações apenas troque as palavras dentro dessa tag, por exemplo: <span> TEXTO AQUI </span> ou <html> TEXTO AQUI </html>
+- Ao alterar as imagens de uma notícias tenha ciencia que o nome dentro do código deve ser exatamente o mesmo nome que colocaram na foto, se não ele não encontra. 
+- As extensões de uma imagem diz se a imagem é PNG, JPG, JPEG OU WEB. Coloque sempre assim ao final images/banner/nomedafoto.jpg
+
+COMO CHEGAR ATÉ O SITE?
+
+1. Acesse a conta da hostgator com o login e senha que estão guardados no e-mail do projeto
+2. Ao acessar clique em CPANEL
+3. Dentro do cpanel acesse o GERENCIADOR DE ARQUIVOS
+4. Procure por PUBLIC_HTML e aperta dê um clique
+5. Procure o arquivo INDEX.HTML, clique com o botão direito em cima da palavra e depois aperte em EDITAR
+6. Você será levado para uma página de código
+
+COMO ALTERAR AS INFORMAÇÕES
+
+7. Dentro do arquivo aperte CTRL + F, após isso digite NOTÍCIAS
+8. Outra forma de achar é procurar normalmente a palavra <!--================ NOTÍCIAS =================-->
+9. Lá dentro derão as orientações do que cada coisa faz
+
+COMO ADICIONAR IMAGENS NO SERVIDOR
+
+10. Volte ao passo 4 
+11. Dentro dessa pasta procure pela pasta IMAGES e dê dois cliques
+12. Lá dentro procure a pasta NOTÍCIAS (pasta das noticias) ou BANNER (pasta das imagens banner)
+13. Na barra superior procurem pela palavra UPLOAD OU ENVIAR 
+14. Anexem a imagem que querem ou a arraste pro centro da tela
+15. Ao finalizar o download em 100% coloque em VOLTAR
+
